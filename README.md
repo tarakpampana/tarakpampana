@@ -29,7 +29,6 @@
  **Frontend:** HTML5, CSS3 
  **Backend:** Java SpringBoot  
  **Databases:** MySQL 
- 
  **DevOps & Tools:** VS Code, Android Studio
 
 ---
