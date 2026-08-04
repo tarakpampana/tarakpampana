@@ -26,11 +26,10 @@
 ---
 
 ## 🛠️ Tools & Technologies
- **Frontend:** HTML5, CSS3
- /n**Backend:** Java SpringBoot  
- **Databases:** MySQL 
+ **Frontend:** HTML5, CSS3      
+ **Backend:** Java SpringBoot    
+ **Databases:** MySQL  
  **DevOps & Tools:** VS Code, Android Studio
-
 
 ---
 
