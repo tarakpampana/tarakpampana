@@ -30,6 +30,8 @@
  **Backend:** Java SpringBoot  
  **Databases:** MySQL 
  **DevOps & Tools:** VS Code, Android Studio
+ **DevOps & Tools:** VS Code, Android Studio
+
 
 ---
 
